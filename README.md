@@ -17,11 +17,11 @@ Os participantes devem definir um produto de software a ser implementado. As op�
 
 A definição do produto deve ser detalhada, incluindo **objetivo, público-alvo e contexto de uso**.
 
-###2.1 Objetivo
+### 2.1 Objetivo
 
-###2.2 Público-alvo
+### 2.2 Público-alvo
 
-###2.3 Contexto de uso
+### 2.3 Contexto de uso
 
 ---
 
