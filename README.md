@@ -4,8 +4,8 @@ Repositório da Escola de TI
 # Primeiro Projeto – Arquitetura MVC
 
 ## 1. Criação do Projeto
-- Criar um **repositório** em uma ferramenta de versionamento, como **GitHub**.
-- Criar um **README** para documentar as **decisões do projeto**, incluindo justificativas e escolhas arquiteturais.
+- Criar um **repositório** em uma ferramenta de versionamento, como **GitHub**. ✔
+- Criar um **README** para documentar as **decisões do projeto**, incluindo justificativas e escolhas arquiteturais. ✔
 
 ---
 
@@ -13,8 +13,6 @@ Repositório da Escola de TI
 Os participantes devem definir um produto de software a ser implementado. As opções podem incluir:
 - **Aplicação web**
 - **Aplicativo móvel**
-- **Sistema de gerenciamento de tarefas**
-- **Rede social simplificada**
 - **Outro software relevante**
 
 A definição do produto deve ser detalhada, incluindo **objetivo, público-alvo e contexto de uso**.
