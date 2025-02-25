@@ -82,7 +82,9 @@ Os participantes devem **definir quais arquivos serão criados e como serão org
 ## Estrutura do Projeto (Backend + NestJS) | Utilizando um exemplo de pokemon.
 
 ```bash
-backend/
+projeto/
+ frontend/
+ backend/
     src/
         modules/
             pokemon/
