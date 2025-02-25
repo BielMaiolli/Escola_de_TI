@@ -10,28 +10,32 @@ Repositório da Escola de TI
 ---
 
 ## 2. Definição do Produto
-Os participantes devem definir um produto de software a ser implementado. As opções podem incluir:
-- **Aplicação web**
-- **Aplicativo móvel**
-- **Outro software relevante**
 
-A definição do produto deve ser detalhada, incluindo **objetivo, público-alvo e contexto de uso**.
+- **Aplicação web**
+- Talvez **Aplicativo mobile**
+
 
 ### 2.1 Objetivo
 
+
 ### 2.2 Público-alvo
+- Cliente Tipo 1 (Pessoa que quer alugar um espaço de eventos; Locatário)
+- Cliente Tipo 2 (Pessoa que tem um local para alugar; Locador)
 
 ### 2.3 Contexto de uso
+Quando alguem quiser organizar um evento, festa ou churrasco em familia.
 
 ---
 
 ## 3. Requisitos do Sistema
-Os participantes devem listar os **requisitos funcionais e não funcionais**, descrevendo-os detalhadamente. Isso inclui:
+Os **requisitos funcionais e não funcionais**, detalhadamente:
 - **Funcionalidades principais** do produto, como:
-  - Criação de perfis de usuário
-  - Visualização de conteúdo
-  - Postagem de mensagens
-  - Adição de amigos
+  - Criação de perfis de usuário;
+  - Cadastro de locais;
+  - Ferramenta de pesquisa (utilização de barra de pesquisa com filtros);
+  - Registro e Login;
+
+    
 - **Requisitos não funcionais**, como:
   - **Desempenho** (tempo de resposta, escalabilidade)
   - **Segurança** (mecanismos de autenticação e autorização)
@@ -41,7 +45,9 @@ Os participantes devem listar os **requisitos funcionais e não funcionais**, de
 ---
 
 ## 4. Restrições e Condições
-- **Restrições Técnicas:** Escolha de plataformas, linguagens de programação e frameworks disponíveis.
+- **Restrições Técnicas:**  linguagens de programação e frameworks disponíveis.
+  
+### Tecnologias
 - **Restrições Não Técnicas:** Orçamento, prazos de entrega, requisitos legais e regulatórios.
 
 ## 5. Necessidades dos Stakeholders
@@ -72,12 +78,12 @@ Todas as decisões devem ser **justificadas com base nos requisitos do projeto**
 ---
 
 ## 6. Organização da Arquitetura MVC
-Com base nas funcionalidades identificadas, os participantes devem estruturar o código seguindo o padrão **Modelo-Visão-Controlador (MVC)**. Isso inclui:
+Com base nas funcionalidades identificadas, vamos estruturar o código seguindo o padrão **Modelo-Visão-Controlador (MVC)**. Isso inclui:
 - **Model:** Definir classes e regras de negócio.
 - **View:** Criar interfaces gráficas para apresentação dos dados.
 - **Controller:** Implementar a lógica de controle e interação entre a interface e os dados.
 
-Os participantes devem **definir quais arquivos serão criados e como serão organizados**.
+Os **arquivos serão criados e serão organizados dessa forma**.
 
 ## Estrutura do Projeto (Backend + NestJS) | Utilizando um exemplo de pokemon.
 
@@ -156,14 +162,6 @@ Ao finalizar o projeto, os participantes devem revisar suas escolhas com base no
 - **Feedback dos stakeholders e documentação das lições aprendidas**
 
 ---
-
-## 8. Entrega da Atividade
-Vocês devem enviar o link do git do projeto através do formulários: a atividade através do seguinte link:
-📌 **[Formulário de Entrega](ainda não fiz o formulário)**
-
----
-
-# RESUMO
 
 - Criar o projeto
 - Construir o esboço
