@@ -79,7 +79,7 @@ Com base nas funcionalidades identificadas, os participantes devem estruturar o 
 
 Os participantes devem **definir quais arquivos serão criados e como serão organizados**.
 
-## Estrutura do Projeto (Backend + NestJS)
+## Estrutura do Projeto (Backend + NestJS) | Utilizando um exemplo de pokemon.
 
 ```bash
 backend/
