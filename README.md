@@ -145,7 +145,7 @@ backend/
     README.md
 
 ---
-
+```
 ## 7. Avaliação das Decisões
 Ao finalizar o projeto, os participantes devem revisar suas escolhas com base nos seguintes critérios:
 - **Compatibilidade com os requisitos funcionais e não funcionais**
