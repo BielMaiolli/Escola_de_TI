@@ -79,6 +79,71 @@ Com base nas funcionalidades identificadas, os participantes devem estruturar o 
 
 Os participantes devem **definir quais arquivos serão criados e como serão organizados**.
 
+## Estrutura do Projeto (Backend + NestJS)
+
+```bash
+backend/
+    src/
+        modules/
+            pokemon/
+                controllers/
+                    pokemon.controller.ts
+                services/
+                    pokemon.service.ts
+                repositories/
+                    pokemon.repository.ts
+                entities/
+                    pokemon.entity.ts
+                dtos/
+                    create-pokemon.dto.ts
+                    update-pokemon.dto.ts
+                schemas/
+                    pokemon.schema.ts
+                pokemon.module.ts
+
+            auth/
+                controllers/
+                    auth.controller.ts
+                services/
+                    auth.service.ts
+                repositories/
+                    auth.repository.ts
+                entities/
+                    auth.entity.ts
+                dtos/
+                    login-auth.dto.ts
+                auth.module.ts
+
+        common/  # Código compartilhado entre os módulos
+            decorators/
+                roles.decorator.ts
+            guards/
+                auth.guard.ts
+                roles.guard.ts
+            filters/
+                exception.filter.ts
+            interceptors/
+                logging.interceptor.ts
+            pipes/
+                validation.pipe.ts
+
+        config/
+            databaseConfig/
+                database.config.ts
+            jwtConfig/
+                jwt.config.ts
+            swaggerConfig/
+                swagger.config.ts
+
+        main.ts
+        app.module.ts
+    
+    test/
+    .env
+    package.json
+    tsconfig.json
+    README.md
+
 ---
 
 ## 7. Avaliação das Decisões
