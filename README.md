@@ -85,72 +85,34 @@ Com base nas funcionalidades identificadas, vamos estruturar o código seguindo 
 
 Os **arquivos serão criados e serão organizados dessa forma**.
 
-## Estrutura do Projeto (Backend + NestJS) | Utilizando um exemplo de pokemon.
+## Estrutura do Projeto (Backend + NestJS)
 
-```bash
-projeto/
- frontend/
- backend/
-    src/
-        modules/
-            pokemon/
-                controllers/
-                    pokemon.controller.ts
-                services/
-                    pokemon.service.ts
-                repositories/
-                    pokemon.repository.ts
-                entities/
-                    pokemon.entity.ts
-                dtos/
-                    create-pokemon.dto.ts
-                    update-pokemon.dto.ts
-                schemas/
-                    pokemon.schema.ts
-                pokemon.module.ts
+    MVC - Model View Controller
 
-            auth/
-                controllers/
-                    auth.controller.ts
-                services/
-                    auth.service.ts
-                repositories/
-                    auth.repository.ts
-                entities/
-                    auth.entity.ts
-                dtos/
-                    login-auth.dto.ts
-                auth.module.ts
-
-        common/  # Código compartilhado entre os módulos
-            decorators/
-                roles.decorator.ts
-            guards/
-                auth.guard.ts
-                roles.guard.ts
-            filters/
-                exception.filter.ts
-            interceptors/
-                logging.interceptor.ts
-            pipes/
-                validation.pipe.ts
-
-        config/
-            databaseConfig/
+    /nomaSolutions
+        /src
+            /entities
+                /locador
+                    locador.module.ts
+                    locador.controller.ts
+                    locador.service.ts
+                    locador.schema.ts
+                /locatario
+                    locatario.module.ts
+                    locatario.controller.ts
+                    locatario.service.ts
+                    locatario.schema.ts
+                /prestador-de-servico
+                    prestador-de-servico.module.ts
+                    prestador-de-servico.controller.ts
+                    prestador-de-servico.service.ts
+                    prestador-de-servico.schema.ts
+            /shared
+                /config
                 database.config.ts
-            jwtConfig/
-                jwt.config.ts
-            swaggerConfig/
-                swagger.config.ts
-
-        main.ts
-        app.module.ts
+            main.ts
+            /frontend
     
-    test/
-    .env
-    package.json
-    tsconfig.json
-    README.md
 
 ---
 ```
