@@ -30,6 +30,7 @@ Quando alguem quiser organizar um evento, festa ou churrasco em familia.
 ## 3. Requisitos do Sistema
 Os **requisitos funcionais e não funcionais**, detalhadamente:
 - **Funcionalidades principais** do produto, como:
+
 **1. Requisitos Funcionais**
   
 1.1 Gerenciamento de Usuários
@@ -78,7 +79,7 @@ Filtros por:
 1.6 Contato com o Locador
 - Botão de contato que redireciona diretamente para o WhatsApp do dono do estabelecimento.
 
-- **Requisitos não funcionais**, como:
+  **2. Requisitos não funcionais**, como:
   - **Desempenho** (tempo de resposta, escalabilidade)
   - **Segurança** (mecanismos de autenticação e autorização)
   - **Usabilidade** (design intuitivo e acessibilidade)
