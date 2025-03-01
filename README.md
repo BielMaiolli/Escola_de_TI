@@ -79,11 +79,11 @@ Filtros por:
 1.6 Contato com o Locador
 - Botão de contato que redireciona diretamente para o WhatsApp do dono do estabelecimento.
 
-  **2. Requisitos não funcionais**, como:
-  - **Desempenho** (tempo de resposta, escalabilidade)
-  - **Segurança** (mecanismos de autenticação e autorização)
-  - **Usabilidade** (design intuitivo e acessibilidade)
-  - **Manutenibilidade** (facilidade de atualização e suporte)
+**2. Requisitos não funcionais**, como:
+- **Desempenho** (tempo de resposta, escalabilidade)
+- **Segurança** (mecanismos de autenticação e autorização)
+- **Usabilidade** (design intuitivo e acessibilidade)
+- **Manutenibilidade** (facilidade de atualização e suporte)
 
 2.1 Desempenho e Escalabilidade
 - O sistema deve ser capaz de suportar múltiplos acessos simultâneos
