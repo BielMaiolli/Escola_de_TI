@@ -108,6 +108,10 @@ Filtros por:
 - **Restrições Técnicas:**  linguagens de programação e frameworks disponíveis.
   
 ### Tecnologias
+
+### Ferramentas
+
+
 - **Restrições Não Técnicas:** Orçamento, prazos de entrega, requisitos legais e regulatórios.
 
 ## 5. Necessidades dos Stakeholders
@@ -121,7 +125,7 @@ Avaliação de riscos técnicos, operacionais e de negócios.
 
 ---
 
-## 5. Tomada de Decisões
+## 8. Tomada de Decisões
 Vocês devem **documentar** todas as decisões tomadas na definição do projeto. Essas decisões devem abranger:
 - **Seleção de tecnologias e frameworks**
 - **Definição de estruturas de dados**
@@ -137,7 +141,7 @@ Todas as decisões devem ser **justificadas com base nos requisitos do projeto**
 
 ---
 
-## 6. Organização da Arquitetura MVC
+## 9. Organização da Arquitetura MVC
 Com base nas funcionalidades identificadas, vamos estruturar o código seguindo o padrão **Modelo-Visão-Controlador (MVC)**. Isso inclui:
 - **Model:** Definir classes e regras de negócio.
 - **View:** Criar interfaces gráficas para apresentação dos dados.
@@ -175,8 +179,8 @@ Os **arquivos serão criados e serão organizados dessa forma**.
     
 
 ---
-```
-## 7. Avaliação das Decisões
+
+## 10. Avaliação das Decisões
 Ao finalizar o projeto, os participantes devem revisar suas escolhas com base nos seguintes critérios:
 - **Compatibilidade com os requisitos funcionais e não funcionais**
 - **Coerência entre arquitetura planejada e implementação**
