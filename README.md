@@ -105,14 +105,22 @@ Filtros por:
 ---
 
 ## 4. Restrições e Condições
-- **Restrições Técnicas:**  linguagens de programação e frameworks disponíveis.
   
 ### Tecnologias
+
 
 ### Ferramentas
 
 
-- **Restrições Não Técnicas:** Orçamento, prazos de entrega, requisitos legais e regulatórios.
+### Restrições Técnicas
+
+
+- Obs: **Restrições Técnicas:**  linguagens de programação e frameworks disponíveis.
+
+### Restrições Não Técnicas
+
+
+- Obs: **Restrições Não Técnicas:** Orçamento, prazos de entrega, requisitos legais e regulatórios, nossa falta de conhecimento.
 
 ## 5. Necessidades dos Stakeholders
 Considerar clientes, usuários finais, gerentes de projeto e desenvolvedores.
