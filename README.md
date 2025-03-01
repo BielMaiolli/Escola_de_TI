@@ -30,17 +30,76 @@ Quando alguem quiser organizar um evento, festa ou churrasco em familia.
 ## 3. Requisitos do Sistema
 Os **requisitos funcionais e não funcionais**, detalhadamente:
 - **Funcionalidades principais** do produto, como:
-  - Criação de perfis de usuário;
-  - Cadastro de locais;
-  - Ferramenta de pesquisa (utilização de barra de pesquisa com filtros);
-  - Registro e Login;
+**1. Requisitos Funcionais**
+  
+1.1 Gerenciamento de Usuários
+- Criar perfis de usuário (Locador e Locatário)
+- Cadastro e edição de informações do usuário
+- Autenticação e login utilizando Firebase Authentication
+- Recuperação de senha via Firebase (envio de e-mail de redefinição)
+- Sistema de avaliação de usuários e locais (avaliação por estrelas e comentários)
+- Logout seguro para encerrar a sessão do usuário
 
-    
+1.2 Tela de Login com Firebase
+- Login via email e senha utilizando Firebase Authentication
+- Opção de login social (Google e Facebook) via Firebase
+- Validação de credenciais em tempo real
+- Exibição de mensagens de erro em caso de falha na autenticação
+- Redirecionamento automático após login bem-sucedido
+- Botão de "Esqueci minha senha" com envio de e-mail de redefinição pelo Firebase
+
+1.3 Gerenciamento de Locais
+- Cadastro de locais para locação pelo Locador, incluindo:
+- Nome do local
+- Endereço com integração ao Google Maps
+- Capacidade máxima de pessoas
+- Regras e restrições do local
+- Upload de imagens do espaço
+- Valor por hora, diária ou evento
+- Disponibilidade de datas e horários
+- Edição e exclusão de locais cadastrados
+- Visualização detalhada do local pelo Locatário
+
+1.4 Pesquisa e Filtros
+- Barra de pesquisa para encontrar locais por nome e região
+Filtros por:
+- Localização (cidade e bairro)
+- Capacidade mínima e máxima
+- Preço por período
+- Tipo de evento suportado
+- Exibição de resultados organizados em lista e mapa
+
+1.5 Reserva de Espaços
+- Solicitação de reserva por parte do Locatário
+- Aprovação ou recusa da reserva pelo Locador
+- Notificação sobre o status da reserva
+- Consulta de histórico de reservas para ambos os usuários
+
+1.6 Contato com o Locador
+- Botão de contato que redireciona diretamente para o WhatsApp do dono do estabelecimento.
+
 - **Requisitos não funcionais**, como:
   - **Desempenho** (tempo de resposta, escalabilidade)
   - **Segurança** (mecanismos de autenticação e autorização)
   - **Usabilidade** (design intuitivo e acessibilidade)
   - **Manutenibilidade** (facilidade de atualização e suporte)
+
+2.1 Desempenho e Escalabilidade
+- O sistema deve ser capaz de suportar múltiplos acessos simultâneos
+- Resposta rápida para pesquisa e carregamento de imagens. 
+
+2.2 Segurança
+- Autenticação segura via Firebase Authentication
+- Controle de permissões para acesso a recursos
+- Armazenamento seguro de dados
+
+2.3 Usabilidade
+- Interface intuitiva e responsiva
+- Design adaptado para web e mobile
+- Processo de reserva simples e eficiente
+
+2.4 Manutenção e Evolução
+- Utilização de Firebase para login, banco de dados e armazenamento de imagens
 
 ---
 
