@@ -159,6 +159,81 @@ Exploração de novas linguagens, frameworks, plataformas em nuvem e metodologia
 ## 7. Riscos do Projeto
 Avaliação de riscos técnicos, operacionais e de negócios.
 
+### 7.1. Riscos Técnicos
+- Desenvolvimento e Escalabilidade da Plataforma:
+Há o risco de a aplicação apresentar bugs ou falhas que prejudiquem a experiência do usuário, especialmente em momentos de alta demanda.
+Mitigação: Investir em testes contínuos, revisões de código e arquiteturas que suportem crescimento.
+
+- Segurança e Proteção de Dados:
+Sendo uma plataforma que lida com informações pessoais e transações financeiras (como pagamento de anúncios e taxas), há risco de ataques cibernéticos ou vazamentos de dados.
+Mitigação: Implementar protocolos de segurança robustos, criptografia de dados e auditorias regulares.
+
+- Integração com Sistemas Terceirizados:
+A proposta envolve a conexão com serviços de validação de ambientes e possivelmente integrações com parceiros para serviços como limpeza, catering ou locação. Problemas na integração podem gerar falhas operacionais.
+Mitigação: Realizar testes de integração rigorosos e estabelecer contratos claros com parceiros, definindo SLAs e pontos de controle.
+
+- Manutenção e Atualizações:
+A necessidade de atualizações frequentes para corrigir bugs, melhorar funcionalidades ou integrar novas tecnologias pode ocasionar períodos de instabilidade e interrupções no serviço.
+Mitigação: Planejar janelas de manutenção e investir em processos de deploy contínuo que minimizem o impacto nos usuários.
+
+- Integração com APIs e Terceiros:
+A integração com APIs externas (para validações, pagamentos ou serviços complementares) pode apresentar problemas de compatibilidade, instabilidade ou alterações inesperadas nos endpoints.
+Mitigação: Estabelecer contratos de nível de serviço (SLAs) e monitorar continuamente as integrações para agir rapidamente em caso de falhas.
+
+- Dependência da Infraestrutura de Hospedagem:
+Problemas com o provedor de serviços de nuvem ou infraestrutura podem causar lentidão ou indisponibilidade do sistema, afetando a experiência do usuário.
+Mitigação: Utilizar estratégias de redundância, balanceamento de carga e monitoramento constante da infraestrutura.
+
+### 7.2. Riscos Operacionais
+- Gestão dos Parceiros e Qualidade dos Serviços:
+O sucesso da plataforma depende da qualidade dos ambientes anunciados e dos serviços terceirizados (como limpeza e cozinha/churrasco). Caso esses parceiros não entreguem conforme o esperado, a reputação do aplicativo pode ser comprometida.
+Mitigação: Desenvolver critérios rigorosos de validação (como mencionado na seção "6. Validações e Responsabilidades") e manter um sistema de avaliação e feedback dos clientes.
+
+- Suporte ao Cliente e Logística:
+Problemas na organização do atendimento, na gestão dos agendamentos e na resolução de imprevistos podem afetar a experiência do usuário e a eficiência operacional.
+Mitigação: Implementar um sistema de atendimento eficiente e investir em treinamento da equipe de suporte, além de utilizar ferramentas de gestão operacional.
+
+- Adoção e Engajamento dos Usuários:
+Caso a plataforma não consiga atrair tanto anunciantes quanto clientes finais, pode haver baixa adesão e dificuldades para manter um fluxo constante de transações.
+Mitigação: Planejar estratégias de marketing digital, promover uma boa experiência do usuário (UX/UI) e ajustar funcionalidades conforme o feedback do mercado.
+
+- Problemas de Logística e Agendamento:
+A coordenação entre disponibilidade de espaços, horários e serviços terceirizados pode gerar conflitos, cancelamentos ou sobreposições de agendamentos.
+Mitigação: Investir em um sistema robusto de gestão de reservas e comunicação integrada entre todas as partes envolvidas.
+
+- Capacitação e Retenção da Equipe:
+A baixa qualificação ou alta rotatividade dos colaboradores pode impactar a eficiência do suporte, atendimento e validação dos ambientes e parceiros.
+Mitigação: Promover treinamentos contínuos e criar políticas de retenção que valorizem a equipe.
+
+- Comunicação Ineficiente:
+Falhas na comunicação interna ou com parceiros podem levar a mal-entendidos, erros operacionais e experiências negativas para os usuários.
+Mitigação: Estruturar processos claros de comunicação e utilizar ferramentas que centralizem informações e permitam um acompanhamento eficaz.
+
+### 7.3. Riscos de Negócios
+- Concorrência com Plataformas Consolidadas:
+Dado que concorrentes como o Airbnb já têm presença significativa, o projeto pode enfrentar barreiras para ganhar visibilidade e confiança dos usuários.
+Mitigação: Evidenciar os diferenciais competitivos, como a oferta de serviços complementares (ex.: limpeza pós-evento, suporte para planejamento) e focar em nichos de mercado que possam estar menos atendidos.
+
+- Viabilidade Financeira:
+Investimentos em tecnologia, marketing e parcerias podem exigir um fluxo de caixa robusto antes que a plataforma se torne rentável.
+Mitigação: Elaborar um planejamento financeiro detalhado, com projeções de receitas e custos, e diversificar as fontes de monetização (como taxas, publicidade e parcerias).
+
+- Mudanças no Comportamento do Consumidor e no Mercado de Eventos:
+Tendências de mercado, sazonalidades e mudanças nas preferências dos consumidores podem impactar a demanda pelos serviços oferecidos.
+Mitigação: Manter um monitoramento contínuo do mercado e adaptar o modelo de negócio conforme as mudanças, investindo também em pesquisas de satisfação dos clientes.
+
+- Variações no Mercado e Sazonalidade:
+A demanda por espaços e serviços para eventos pode ser bastante variável ao longo do ano, afetada por fatores sazonais, crises econômicas ou mudanças de comportamento do consumidor.
+Mitigação: Diversificar as estratégias de receita e manter flexibilidade para ajustar o modelo de negócio conforme as tendências do mercado.
+
+- Mudanças Regulatórias e Legais:
+Alterações em leis e regulamentações relacionadas a eventos, locações e proteção de dados podem exigir adaptações rápidas no modelo de negócio e na operação da plataforma.
+Mitigação: Monitorar o cenário regulatório e contar com assessoria jurídica para antecipar e ajustar as estratégias de acordo com as novas demandas.
+
+- Riscos de Imagem e Reputação:
+Problemas operacionais ou incidentes (como falhas de segurança ou avaliações negativas não gerenciadas) podem ser amplificados nas redes sociais, afetando a credibilidade do projeto.
+Mitigação: Estabelecer um plano de gerenciamento de crises, monitorar constantemente as redes sociais e investir em ações de relacionamento com o cliente.
+
 ---
 
 ## 8. Tomada de Decisões
