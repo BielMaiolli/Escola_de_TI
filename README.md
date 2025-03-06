@@ -141,6 +141,18 @@ Filtros por:
 ## 5. Necessidades dos Stakeholders
 Considerar clientes, usuários finais, gerentes de projeto e desenvolvedores.
 
+Necessidades do Locatário até o momento:
+- Nenhuma
+
+Necessidades do Locador até o momento:
+- Manutenção do local
+
+Necessidades do Gerente do projeto:
+- Nenhuma
+
+Necessidades dos Desenvolvedores:
+- Nenhuma
+
 ## 6. Tendências Tecnológicas
 Exploração de novas linguagens, frameworks, plataformas em nuvem e metodologias ágeis.
 
