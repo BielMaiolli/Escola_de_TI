@@ -16,7 +16,9 @@ Repositório da Escola de TI
 
 
 ### 2.1 Objetivo
+Nosso objetivo é intermediar o processo entre o locador e o locatário, focando em uma experiência personalizada e além disso propor outros serviços, afim de facilitar a vida dos nossos usuários.
 
+Queremos reunir esses espaços de eventos em uma aplicação Web, fornecendo filtros de busca para ajudar a encontrar o lugar perfeito para você. 
 
 ### 2.2 Público-alvo
 - Cliente Tipo 1 (Pessoa que quer alugar um espaço de eventos; Locatário)
