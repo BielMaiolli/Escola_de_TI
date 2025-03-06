@@ -129,14 +129,14 @@ Filtros por:
 
 ### Restrições Técnicas
 
-- Obs: **Restrições Técnicas:**  linguagens de programação e frameworks disponíveis.
+Obs: **Restrições Técnicas:**  linguagens de programação e frameworks disponíveis.
 
 ### Restrições Não Técnicas
 - Não temos total conhecimento em React
 - Não temos total conhecimento em React Native
 - Não temos total conhecimento em Docker
 
-- Obs: **Restrições Não Técnicas:** Orçamento, prazos de entrega, requisitos legais e regulatórios, nossa falta de conhecimento.
+Obs: **Restrições Não Técnicas:** Orçamento, prazos de entrega, requisitos legais e regulatórios, nossa falta de conhecimento.
 
 ## 5. Necessidades dos Stakeholders
 Considerar clientes, usuários finais, gerentes de projeto e desenvolvedores.
