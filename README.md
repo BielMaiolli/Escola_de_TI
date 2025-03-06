@@ -116,9 +116,16 @@ Filtros por:
 - React Native
 - Docker
 - Git
+- MongoDB ou Postgres
 
 ### Ferramentas
-
+- Github
+- Trello
+- Clockify
+- Formulários do Google
+- Google Drive
+- Discord
+- Inteligencias Artificiais
 
 ### Restrições Técnicas
 
