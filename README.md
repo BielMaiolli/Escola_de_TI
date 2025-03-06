@@ -109,18 +109,25 @@ Filtros por:
 ## 4. Restrições e Condições
   
 ### Tecnologias
-
+- NestJs
+- React
+- Swagger
+- Javascript
+- React Native
+- Docker
+- Git
 
 ### Ferramentas
 
 
 ### Restrições Técnicas
 
-
 - Obs: **Restrições Técnicas:**  linguagens de programação e frameworks disponíveis.
 
 ### Restrições Não Técnicas
-
+- Não temos total conhecimento em React
+- Não temos total conhecimento em React Native
+- Não temos total conhecimento em Docker
 
 - Obs: **Restrições Não Técnicas:** Orçamento, prazos de entrega, requisitos legais e regulatórios, nossa falta de conhecimento.
 
