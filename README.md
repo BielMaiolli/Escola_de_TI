@@ -238,11 +238,36 @@ Mitigação: Estabelecer um plano de gerenciamento de crises, monitorar constant
 
 ## 8. Tomada de Decisões
 Vocês devem **documentar** todas as decisões tomadas na definição do projeto. Essas decisões devem abranger:
-- **Seleção de tecnologias e frameworks**
+
+- **Seleção de tecnologias e frameworks:**
+NestJs -> Facilidade em aprendizado, tecnologia recente, mais familiarizado com o grupo.
+React -> Facilidade em aprendizado, tecnologia recente, causa interesse ao grupo.
+Swagger -> Facilidade em testar e documentar o código.
+Javascript -> Mais familiariazado com o grupo e opção para juntar o backend e frontend.
+React Native -> Interesse ao grupo para produto mobile (talvez).
+Docker -> Interesse ao grupo, tecnologia recente, muito vantajoso para o produto.
+Git -> Importante ao grupo para organização das mudanças do código.
+MongoDB ou Postgres -> Um é bem flexivel e o outro mais Rigido, melhores bancos para o nosso uso, podemos utilizar os dois (talvez).
+Github -> Plataforma que o grupo é familiarizado, ótimo para guardar o nosso código ou algo relacionado ao projeto.
+Trello -> Plataforma que o grupo é familiarizado, ótimo para organizar as tarefas, ideias e andamento do projeto.
+Clockify -> Plataforma que o grupo é familiarizado, ótimo para cronometrar o tempo ao executar tarefas relacionado ao projeto.
+Microsoft Forms -> Interessante ao grupo, ótimo para conseguir ter um bom uso e organização das perguntas.
+Google Drive -> Plataforma que o grupo é familiarizado, ótimo para guardar a nossa documentação ou algo relacionado ao projeto.
+Discord -> Plataforma que o grupo é familiarizado, ótimo para reuniões do grupo.
+Inteligencias Artificiais -> Ótimo para todas as partes do nosso projeto e para não ficar atras das outras empresas.
+
 - **Definição de estruturas de dados**
+Programação Orientada a Objetos.
+
 - **Escolha de algoritmos**
+
+
 - **Adoção de padrões de projeto**
+
+
 - **Definição de componentes do sistema**
+
+
 - **Modelos de decisão utilizados**, como:
   - Análise comparativa de alternativas
   - Prototipagem e experimentação
