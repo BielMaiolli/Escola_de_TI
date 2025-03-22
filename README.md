@@ -237,7 +237,7 @@ Mitigação: Estabelecer um plano de gerenciamento de crises, monitorar constant
 ---
 
 ## 8. Tomada de Decisões
-Vocês devem **documentar** todas as decisões tomadas na definição do projeto. Essas decisões devem abranger:
+Estamos **documentando** todas as decisões tomadas na definição do projeto. Essas decisões devem abranger:
 
 - **Seleção de tecnologias e frameworks:**
 NestJs -> Facilidade em aprendizado, tecnologia recente, mais familiarizado com o grupo.
@@ -263,7 +263,7 @@ Programação Orientada a Objetos.
 
 
 - **Adoção de padrões de projeto**
-
+Está na documentação de Guia de Convenções de Codificação.
 
 - **Definição de componentes do sistema**
 
