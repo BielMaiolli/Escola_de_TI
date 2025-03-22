@@ -156,6 +156,8 @@ Necessidades dos Desenvolvedores:
 ## 6. Tendências Tecnológicas
 Exploração de novas linguagens, frameworks, plataformas em nuvem e metodologias ágeis.
 
+Está no documento de Tendências Tecnológicas.
+
 ## 7. Riscos do Projeto
 Avaliação de riscos técnicos, operacionais e de negócios.
 
