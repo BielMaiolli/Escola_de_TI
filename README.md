@@ -240,6 +240,7 @@ Mitigação: Estabelecer um plano de gerenciamento de crises, monitorar constant
 Estamos **documentando** todas as decisões tomadas na definição do projeto. Essas decisões devem abranger:
 
 - **Seleção de tecnologias e frameworks:**
+
 NestJs -> Facilidade em aprendizado, tecnologia recente, mais familiarizado com o grupo.
 
 React -> Facilidade em aprendizado, tecnologia recente, causa interesse ao grupo.
